@@ -1,0 +1,8 @@
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\bin\Debug\FibonacciArray.exe.config
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\bin\Debug\FibonacciArray.exe
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\bin\Debug\FibonacciArray.pdb
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\obj\Debug\FibonacciArray.csproj.AssemblyReference.cache
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\obj\Debug\FibonacciArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\obj\Debug\FibonacciArray.csproj.CoreCompileInputs.cache
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\obj\Debug\FibonacciArray.exe
+C:\Users\90555\source\repos\FibonacciArray\FibonacciArray\obj\Debug\FibonacciArray.pdb
